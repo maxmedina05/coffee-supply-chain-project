@@ -2498,69 +2498,7 @@
     "version": "0.4.24+commit.e67f0147.Emscripten.clang"
   },
   "networks": {
-    "1588789607585": {
-      "events": {
-        "0x28b26e7a3d20aedbc5f8f2ebf7da671c0491723a2b78f47a097b0e46dee07142": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "account",
-              "type": "address"
-            }
-          ],
-          "name": "ConsumerAdded",
-          "type": "event"
-        },
-        "0xe3f5ed5f263f1f01764a96edfc7d025f511ec5f7d180e8816908b78bcf74f098": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "account",
-              "type": "address"
-            }
-          ],
-          "name": "ConsumerRemoved",
-          "type": "event"
-        }
-      },
-      "links": {},
-      "address": "0xA65B87754E0A73860AA6B7eb6E95D79CD2d893d2",
-      "transactionHash": "0x6ebc14e5df04cbfcf2fb47c45174057ef53ff0d6b637daa48bd22b02b81b91fe"
-    },
-    "1588828843603": {
-      "events": {
-        "0x28b26e7a3d20aedbc5f8f2ebf7da671c0491723a2b78f47a097b0e46dee07142": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "account",
-              "type": "address"
-            }
-          ],
-          "name": "ConsumerAdded",
-          "type": "event"
-        },
-        "0xe3f5ed5f263f1f01764a96edfc7d025f511ec5f7d180e8816908b78bcf74f098": {
-          "anonymous": false,
-          "inputs": [
-            {
-              "indexed": true,
-              "name": "account",
-              "type": "address"
-            }
-          ],
-          "name": "ConsumerRemoved",
-          "type": "event"
-        }
-      },
-      "links": {},
-      "address": "0x143Fe7950139Bcd1345721AD8f589b9aCA08bCdD",
-      "transactionHash": "0x982558ebcdea432035eddb2ba131e56cf5835b03eabf6b13f9b84209180bed82"
-    },
-    "1588830195253": {
+    "1588864141295": {
       "events": {
         "0x28b26e7a3d20aedbc5f8f2ebf7da671c0491723a2b78f47a097b0e46dee07142": {
           "anonymous": false,
@@ -2593,7 +2531,7 @@
     }
   },
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-07T05:45:35.745Z",
+  "updatedAt": "2020-05-07T15:09:27.361Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
